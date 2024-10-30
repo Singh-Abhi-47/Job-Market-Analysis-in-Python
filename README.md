@@ -12,7 +12,7 @@ Each notebook provided is aimed to look into a particular aspect of the job data
 
 *The following code snippet shows the top three skills and their top 5 skills associated*
 <br>
-Here you can access my notebook for the details: [Notebook 2](Project\2_Skills_count.ipynb)
+Here you can access my notebook for the details: [Notebook 2](Project/2_Skills_count.ipynb)
 <br>
 <br>
 
