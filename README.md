@@ -36,7 +36,7 @@ plt.show()
 ```
 
 ### Result
-![Visualizatoin of top skills for top job roles](Images\skills_in_demand_for_top_data_roles.png)
+![Visualizatoin of top skills for top job roles](Images/skills_in_demand_for_top_data_roles.png)
 <br>
 
 ### Insights
